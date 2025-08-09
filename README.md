@@ -1,4 +1,5 @@
 # Advanced Cartoonify
+🚀 🎨 📸 💾 ⚙️ ✨ 🔥 ✅ 📁 💡 🖥️ 🌐 🛠️ 🧑‍💻 🎉 🔗
 
 A Streamlit app that converts photos to cartoon-style images.
 
@@ -17,3 +18,9 @@ A Streamlit app that converts photos to cartoon-style images.
 - Upload image or use camera
 - Multiple styles (Cartoon, Pencil sketch, Oil painting, Sepia)
 - Download result
+
+ ## [![Open in Streamlit]
+- https://cartoonify-adzt4qzknyf3knxv9adqw3.streamlit.app/]
+  ## Also You Can Use
+- (https://arunasettipalli-cartoonify.streamlit.app)
+
